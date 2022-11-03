@@ -1,0 +1,28 @@
+{
+  "name": "npmdepstest",
+  "version": "1.0.0",
+  "description": "Test repo for npm dependency discovery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/endorlabs/npmdepstest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/endorlabs/npmdepstest/issues"
+  },
+  "homepage": "https://github.com/endorlabs/npmdepstest#readme",
+  "dependencies": {
+    "express": "4.1.0"
+  },
+  "devDependencies": {
+    "mime-types": "2.1.35"
+  },
+  "optionalDependencies": {
+    "lodash": "4.6.1"
+  }
+}
